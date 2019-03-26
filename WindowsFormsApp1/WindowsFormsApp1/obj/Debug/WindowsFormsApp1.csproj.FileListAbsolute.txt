@@ -1,0 +1,35 @@
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TilausLomake.resources
+D:\Koulu\graafinen käyttöliittymä\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TilausLomake.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TilausLomake.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache

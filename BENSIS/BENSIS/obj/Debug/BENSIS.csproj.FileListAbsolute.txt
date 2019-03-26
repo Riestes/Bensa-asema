@@ -1,0 +1,43 @@
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\bin\Debug\BENSIS.exe.config
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\bin\Debug\BENSIS.exe
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\bin\Debug\BENSIS.pdb
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Form1.resources
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Form2.resources
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Properties.Resources.resources
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.csproj.GenerateResource.Cache
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.exe
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.pdb
+D:\Visual Studio Projektit\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Form3.resources
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\bin\Debug\BENSIS.exe.config
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\bin\Debug\BENSIS.exe
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\bin\Debug\BENSIS.pdb
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.csprojResolveAssemblyReference.cache
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Form1.resources
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Form2.resources
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Form3.resources
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.Properties.Resources.resources
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.csproj.GenerateResource.Cache
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.exe
+P:\Visuaalinen käyttöliittymä\bensis\BENSIS (1)\BENSIS\BENSIS\BENSIS\obj\Debug\BENSIS.pdb
+C:\temp\BENSIS.exe.config
+C:\temp\BENSIS.exe
+C:\temp\BENSIS.pdb
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.csprojResolveAssemblyReference.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Form1.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Form2.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Form3.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Properties.Resources.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.csproj.GenerateResource.Cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.csproj.CoreCompileInputs.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.exe
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.exe
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.csprojResolveAssemblyReference.cache
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Form1.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Form2.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Form3.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.Properties.Resources.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\BENSIS\BENSIS\obj\Debug\BENSIS.csproj.GenerateResource.Cache

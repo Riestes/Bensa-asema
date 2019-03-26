@@ -1,0 +1,168 @@
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 11:53:32
+
+Summa: 50 €
+Litrat: 23,6 l
+Tyyppi: Diesel
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 12:40:52
+
+Summa: 100 €
+Litrat: 47,1 l
+Tyyppi: Diesel
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 12:43:17
+
+Summa: 45 €
+Litrat: 34,1 l
+Tyyppi: 98E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:06:35
+
+Summa: 11 €
+Litrat: 9,8 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:06:47
+
+Summa: 10 €
+Litrat: 8,9 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:07:10
+
+Summa: 40 €
+Litrat: 35,6 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:09:05
+
+Summa: 10 €
+Litrat: 8,9 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:09:39
+
+Summa: 10 €
+Litrat: 8,9 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:10:10
+
+Summa: 30 €
+Litrat: 26,7 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:11:32
+
+Summa: 400 €
+Litrat: 356,2 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:13:09
+
+Summa: 400 €
+Litrat: 356,2 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:13:42
+
+Summa: 400 €
+Litrat: 356,2 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:14:16
+
+Summa: 400 €
+Litrat: 356,2 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:15:43
+
+Summa: 34 €
+Litrat: 30,3 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:16:51
+
+Summa: 45 €
+Litrat: 40,1 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:28:47
+
+Summa: 30 €
+Litrat: 26,7 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:31:26
+
+Summa: 30 €
+Litrat: 26,7 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:40:15
+
+Summa: 2 €
+Litrat: 1,8 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:49:58
+
+Summa: 1000 €
+Litrat: 890,5 l
+Tyyppi: 95E
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 13:53:58
+
+Summa: 45 €
+Litrat: 21,2 l
+Tyyppi: Diesel
+----------------
+----------------
+Päivämäärä: 24.10.2017
+Kellonaika: 15:37:42
+
+Summa: 10 €
+Litrat: 4,7 l
+Tyyppi: Diesel
+----------------

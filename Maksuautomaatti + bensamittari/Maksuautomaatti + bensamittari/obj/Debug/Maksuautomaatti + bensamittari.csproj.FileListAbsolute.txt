@@ -1,0 +1,57 @@
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe.config
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csprojResolveAssemblyReference.cache
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Form1.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Properties.Resources.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csproj.GenerateResource.Cache
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.exe
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.formPIN.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe.config
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.pdb
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csprojResolveAssemblyReference.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Form1.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.formPIN.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Properties.Resources.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csproj.GenerateResource.Cache
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csproj.CoreCompileInputs.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.exe
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.pdb
+F:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.FormTankkaus.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.FormTankkaus.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe.config
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.pdb
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csprojResolveAssemblyReference.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Form1.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.formPIN.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.FormTankkaus.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Properties.Resources.resources
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csproj.GenerateResource.Cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csproj.CoreCompileInputs.cache
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.exe
+F:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe.config
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.pdb
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csprojResolveAssemblyReference.cache
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Form1.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.formPIN.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.FormTankkaus.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Properties.Resources.resources
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csproj.GenerateResource.Cache
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.exe
+D:\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.pdb
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe.config
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.exe
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\bin\Debug\Maksuautomaatti + bensamittari.pdb
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csprojResolveAssemblyReference.cache
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Form1.resources
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.formPIN.resources
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.FormTankkaus.resources
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti___bensamittari.Properties.Resources.resources
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.csproj.GenerateResource.Cache
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.exe
+D:\Ensimmäinen moduuli\Graafisen käyttöliittymän ohjelmointi\Bensa-asema\Maksuautomaatti + bensamittari\Maksuautomaatti + bensamittari\obj\Debug\Maksuautomaatti + bensamittari.pdb
